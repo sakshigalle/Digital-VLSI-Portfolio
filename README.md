@@ -3,34 +3,124 @@
 
 # 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓥𝓛𝓢𝓘 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸
 
-### RTL Design • Verilog HDL • ASIC Design • Semiconductor Technology
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+VLSI+Portfolio!;ECE+Student+%7C+VLSI+Enthusiast;Always+Learning+%F0%9F%92%97" />
-
-
-
-</div>
+# Digital VLSI Portfolio
 
 ---
 
-## About Me
+Welcome to my **Digital VLSI Portfolio**.
 
-Electronics & Communication Engineering Student
+This repository documents my learning journey in **Digital VLSI Design**, **RTL Design**, and **Verilog HDL**. It contains digital circuit implementations, simulation files, documentation, and projects developed while exploring semiconductor technology and ASIC design.
 
-Interested in:
-- Digital VLSI
+---
+
+## About
+
+I am an **Electronics & Communication Engineering** student passionate about digital hardware design and semiconductor technology.
+
+I created this repository to organize my Verilog projects, strengthen my RTL design skills, and track my progress as I learn modern VLSI design methodologies.
+
+---
+
+## Topics Covered
+
+- Logic Gates
+- Multiplexers
+- Demultiplexers
+- Encoders
+- Decoders
+- Comparators
+- Half Adder
+- Full Adder
+- Flip-Flops
+- Counters
+- Shift Registers
+- Finite State Machines (FSM)
+- Arithmetic Logic Unit (ALU)
+- UART
+- FIFO
+
+---
+
+## Tools Used
+
+- Verilog HDL
+- SystemVerilog
+- ModelSim
+- Cadence
+- Synopsys
+- Git & GitHub
+- Linux
+
+---
+
+## Repository Structure
+
+```
+Digital-VLSI-Portfolio
+│
+├── Projects
+│   ├── 01_AND_Gate
+│   ├── 02_OR_Gate
+│   ├── 03_NOT_Gate
+│   ├── ...
+│
+├── Learning_Notes
+├── Images
+├── Certificates
+├── Internship
+└── README.md
+```
+
+---
+
+## Project Progress
+
+| Project | Status |
+|----------|:------:|
+| AND Gate | ✅ |
+| OR Gate | ⏳ |
+| NOT Gate | ⏳ |
+| NAND Gate | ⏳ |
+| NOR Gate | ⏳ |
+| XOR Gate | ⏳ |
+| XNOR Gate | ⏳ |
+| Half Adder | ⏳ |
+| Full Adder | ⏳ |
+| Multiplexer | ⏳ |
+| Decoder | ⏳ |
+| Counter | ⏳ |
+| Shift Register | ⏳ |
+| FSM | ⏳ |
+| ALU | ⏳ |
+| UART | ⏳ |
+| FIFO | ⏳ |
+
+---
+
+## Current Focus
+
 - RTL Design
+- Verilog HDL
+- Digital Circuit Design
 - ASIC Design Flow
 - Semiconductor Technology
 
 ---
-## Tech Stack
 
-![Verilog](https://img.shields.io/badge/Verilog-HDL-F8BBD0?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-F8BBD0?style=for-the-badge)
-![Cadence](https://img.shields.io/badge/Cadence-EDA-F8BBD0?style=for-the-badge)
-![Synopsys](https://img.shields.io/badge/Synopsys-EDA-F8BBD0?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version_Control-F8BBD0?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-OS-F8BBD0?style=for-the-badge)
+## Goal
+
+To develop a strong foundation in Digital VLSI Design by implementing, simulating, and documenting RTL designs while gaining practical experience with industry-standard EDA tools.
+
 ---
 
+## Author
+
+**Sakshi Galle**
+
+Electronics & Communication Engineering Student
+
+Interested in Digital VLSI Design, RTL Design, ASIC Design Flow, and Semiconductor Technology.
+
+---
+
+*Thank you for visiting my portfolio.*
