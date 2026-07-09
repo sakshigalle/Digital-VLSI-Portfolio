@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓥𝓛𝓢𝓘 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸
+
 
 # Digital VLSI Portfolio
 
