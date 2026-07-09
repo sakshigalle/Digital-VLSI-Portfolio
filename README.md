@@ -1,86 +1,36 @@
 
-# Digital VLSI Portfolio
+<div align="center">
 
-Welcome to my Digital VLSI Portfolio!
+# 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓥𝓛𝓢𝓘 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸
 
-This repository showcases my learning journey and projects in Digital VLSI Design, RTL Design, and Verilog HDL. It includes digital circuit implementations, simulation results, documentation, and design resources.
+### RTL Design • Verilog HDL • ASIC Design • Semiconductor Technology
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+VLSI+Portfolio!;ECE+Student+%7C+VLSI+Enthusiast;Always+Learning+%F0%9F%92%97" />
+
+
+
+</div>
 
 ---
 
 ## About Me
 
-- 🎓 Electronics and Communication Engineering Student
-- 💻 Interested in Digital VLSI, RTL Design, and Semiconductor Technology
-- 🌱 Currently learning Verilog, SystemVerilog, Cadence, Synopsys, and ASIC Design Flow
+Electronics & Communication Engineering Student
 
----
-
-## Skills
-
-- Verilog HDL
-- Digital Logic Design
+Interested in:
+- Digital VLSI
 - RTL Design
-- ModelSim
-- Cadence
-- Synopsys
-- Linux
-- Git & GitHub
+- ASIC Design Flow
+- Semiconductor Technology
 
 ---
+## Tech Stack
 
-## Repository Structure
-
-```
-Projects/
-Images/
-Documents/
-Learning_Notes/
-Resources/
-```
-
+![Verilog](https://img.shields.io/badge/Verilog-HDL-F8BBD0?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-F8BBD0?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence-EDA-F8BBD0?style=for-the-badge)
+![Synopsys](https://img.shields.io/badge/Synopsys-EDA-F8BBD0?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-F8BBD0?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-OS-F8BBD0?style=for-the-badge)
 ---
 
----
-
-## 📂 Project Progress
-
-| No. | Project | Type | Status |
-|:---:|---------|------|:------:|
-| 01 | AND Gate | Combinational Logic | ✅ Completed |
-| 02 | OR Gate | Combinational Logic | ⏳ Planned |
-| 03 | NOT Gate | Combinational Logic | ⏳ Planned |
-| 04 | NAND Gate | Combinational Logic | ⏳ Planned |
-| 05 | NOR Gate | Combinational Logic | ⏳ Planned |
-| 06 | XOR Gate | Combinational Logic | ⏳ Planned |
-| 07 | XNOR Gate | Combinational Logic | ⏳ Planned |
-| 08 | Half Adder | Arithmetic Circuit | ⏳ Planned |
-| 09 | Full Adder | Arithmetic Circuit | ⏳ Planned |
-| 10 | 4:1 Multiplexer | Data Selector | ⏳ Planned |
-| 11 | Decoder | Combinational Logic | ⏳ Planned |
-| 12 | Counter | Sequential Logic | ⏳ Planned |
-| 13 | Shift Register | Sequential Logic | ⏳ Planned |
-| 14 | FSM | Sequential Logic | ⏳ Planned |
-| 15 | ALU | RTL Design | ⏳ Planned |
-| 16 | UART | Communication | ⏳ Planned |
-| 17 | FIFO | Memory | ⏳ Planned |
-
----
-
-## Upcoming Projects
-
-## Upcoming Projects
-
-- Logic Gates
-- Multiplexers
-- Encoders & Decoders
-- Adders
-- Counters
-- Shift Registers
-- FSM Designs
-- ALU
-- UART
-- FIFO
-
----
-
-⭐ Thank you for visiting my repository!
