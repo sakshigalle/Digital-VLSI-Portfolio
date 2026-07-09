@@ -40,6 +40,34 @@ Resources/
 
 ---
 
+---
+
+## 📂 Project Progress
+
+| No. | Project | Type | Status |
+|:---:|---------|------|:------:|
+| 01 | AND Gate | Combinational Logic | ✅ Completed |
+| 02 | OR Gate | Combinational Logic | ⏳ Planned |
+| 03 | NOT Gate | Combinational Logic | ⏳ Planned |
+| 04 | NAND Gate | Combinational Logic | ⏳ Planned |
+| 05 | NOR Gate | Combinational Logic | ⏳ Planned |
+| 06 | XOR Gate | Combinational Logic | ⏳ Planned |
+| 07 | XNOR Gate | Combinational Logic | ⏳ Planned |
+| 08 | Half Adder | Arithmetic Circuit | ⏳ Planned |
+| 09 | Full Adder | Arithmetic Circuit | ⏳ Planned |
+| 10 | 4:1 Multiplexer | Data Selector | ⏳ Planned |
+| 11 | Decoder | Combinational Logic | ⏳ Planned |
+| 12 | Counter | Sequential Logic | ⏳ Planned |
+| 13 | Shift Register | Sequential Logic | ⏳ Planned |
+| 14 | FSM | Sequential Logic | ⏳ Planned |
+| 15 | ALU | RTL Design | ⏳ Planned |
+| 16 | UART | Communication | ⏳ Planned |
+| 17 | FIFO | Memory | ⏳ Planned |
+
+---
+
+## Upcoming Projects
+
 ## Upcoming Projects
 
 - Logic Gates
